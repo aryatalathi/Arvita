@@ -584,7 +584,7 @@ section {
 .container .box .body .content div {
     transform-style: preserve-3d;
     padding: 20px;
-    background: linear-gradient(45deg, #ff9900, #f52004);
+    background: linear-gradient(45deg, #00a2ff, #0950eb);
     transform: translateZ(100px)
 }
 
